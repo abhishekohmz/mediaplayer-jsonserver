@@ -1,0 +1,86 @@
+{
+  "videos": [
+    {
+      "id": "3",
+      "caption": "cristiano",
+      "url": "https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.bolavip.com%2Fjpg%2Fen%2Ffull%2FBUS_20240827_BUS_221418_Cristiano-Ronaldo-13.jpg&width=1200&height=740",
+      "embedLink": "https://www.youtube.com/embed/rtsNAzXktBw"
+    },
+    {
+      "id": "2",
+      "caption": "messi",
+      "url": "https://fifpro.org/media/fhmfhvkx/messi-world-cup.jpg?rxy=0.48356841796117644,0.31512414378031967&width=1600&height=1024&rnd=133210253587130000",
+      "embedLink": "https://www.youtube.com/embed/nA8wHQvHPJU"
+    },
+    {
+      "id": "1",
+      "caption": "car",
+      "url": "https://carwow-uk-wp-3.imgix.net/18015-MC20BluInfinito-scaled-e1707920217641.jpg",
+      "embedLink": "https://www.youtube.com/embed/pWVwVaYAVlM"
+    },
+    {
+      "id": "4",
+      "caption": "bike",
+      "url": "https://5.imimg.com/data5/LX/PM/GLADMIN-68162457/kawasaki-ninja-h2-bike.png",
+      "embedLink": "https://www.youtube.com/embed/hBASAZa51TI"
+    },
+    {
+      "id": "5",
+      "caption": "kondal",
+      "url": "https://images.filmibeat.com/img/popcorn/movie_posters/kondal-20240702170541-23027.jpg",
+      "embedLink": "https://www.youtube.com/embed/33VDM43XeyU"
+    },
+    {
+      "id": "6",
+      "caption": "ARM",
+      "url": "https://static.toiimg.com/photo/100413084.cms",
+      "embedLink": "https://www.youtube.com/embed/rFgS10V8908"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Trailers",
+      "allvideos": [
+        {
+          "id": "5",
+          "caption": "kondal",
+          "url": "https://images.filmibeat.com/img/popcorn/movie_posters/kondal-20240702170541-23027.jpg",
+          "embedLink": "https://www.youtube.com/embed/33VDM43XeyU"
+        },
+        {
+          "id": "6",
+          "caption": "ARM",
+          "url": "https://static.toiimg.com/photo/100413084.cms",
+          "embedLink": "https://www.youtube.com/embed/rFgS10V8908"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "Soccer",
+      "allvideos": [
+        {
+          "id": "3",
+          "caption": "cristiano",
+          "url": "https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.bolavip.com%2Fjpg%2Fen%2Ffull%2FBUS_20240827_BUS_221418_Cristiano-Ronaldo-13.jpg&width=1200&height=740",
+          "embedLink": "https://www.youtube.com/embed/rtsNAzXktBw"
+        },
+        {
+          "id": "2",
+          "caption": "messi",
+          "url": "https://fifpro.org/media/fhmfhvkx/messi-world-cup.jpg?rxy=0.48356841796117644,0.31512414378031967&width=1600&height=1024&rnd=133210253587130000",
+          "embedLink": "https://www.youtube.com/embed/nA8wHQvHPJU"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "cristiano",
+      "embedLink": "https://www.youtube.com/embed/rtsNAzXktBw",
+      "timeStamp": "08/29/2024, 01:56:25 PM",
+      "id": 1
+    }
+  ]
+}
